@@ -1,6 +1,6 @@
 # projectmovie
 
-A new Flutter project.
+Project cuối khóa Flutter 11 tại trung tâm CodeFreser Hà Nội
 
 ## Getting Started
 
