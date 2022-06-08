@@ -4,9 +4,8 @@
 
 ##VIDEO DEMO APP
 
-<video width="624" height="352" controls>
-  <source src="Brave.mp4" type="./screenshot/tuân.mp4">
-  Your browser does not support the video tag.
-</video>
+
+[![Alternate Text]({image-url})]({./screenshot/tuân.mp4} "Link Title")
+
 
 
